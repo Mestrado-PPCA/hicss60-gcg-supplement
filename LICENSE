@@ -1,0 +1,33 @@
+# Licença
+
+Copyright © 2026 Banco do Brasil S.A. Todos os direitos reservados.
+
+Este repositório — código-fonte, documentação, artefatos de build (o zip do plugin IntelliJ e o `.vsix` da extensão
+VS Code), marcas e demais materiais do Launch Center — é **software proprietário do Banco do Brasil S.A.**, de
+**uso exclusivamente interno**.
+
+## Uso permitido
+
+O uso, a cópia, a modificação e a instalação são permitidos somente a funcionários e colaboradores autorizados do
+Banco do Brasil S.A., no exercício de suas atividades e nos ambientes e equipamentos do Banco.
+
+## Restrições
+
+Sem autorização prévia e por escrito do Banco do Brasil S.A., é vedado:
+
+- distribuir, publicar, sublicenciar, vender, ceder ou disponibilizar a terceiros este software, no todo ou em
+  parte, em qualquer formato;
+- usar este software, no todo ou em parte, fora do Banco do Brasil S.A. ou para fins alheios às suas atividades;
+- remover ou alterar este aviso e os demais avisos de titularidade.
+
+Nenhuma licença, expressa ou implícita, é concedida sobre patentes, marcas, direitos autorais ou outros direitos de
+propriedade intelectual do Banco do Brasil S.A., além do uso interno descrito acima.
+
+## Componentes de terceiros
+
+As bibliotecas e ferramentas de terceiros usadas por este software seguem as respectivas licenças, que prevalecem
+sobre este documento no que lhes diz respeito.
+
+## Ausência de garantia
+
+O software é fornecido "no estado em que se encontra", sem garantia de qualquer natureza, expressa ou implícita.
